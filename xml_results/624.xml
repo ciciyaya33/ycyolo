@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotations><object><name>2</name><confidence>tensor(0.9249, device='cuda:0')</confidence><bndbox><xmin>3143</xmin><ymin>884</ymin><xmax>3702</xmax><ymax>2878
+</ymax></bndbox></object><object><name>2</name><confidence>tensor(0.9053, device='cuda:0')</confidence><bndbox><xmin>351</xmin><ymin>867</ymin><xmax>896</xmax><ymax>2863
+</ymax></bndbox></object><object><name>2</name><confidence>tensor(0.8552, device='cuda:0')</confidence><bndbox><xmin>2583</xmin><ymin>2251</ymin><xmax>3151</xmax><ymax>2892
+</ymax></bndbox></object><object><name>1</name><confidence>tensor(0.8546, device='cuda:0')</confidence><bndbox><xmin>984</xmin><ymin>966</ymin><xmax>1391</xmax><ymax>2149
+</ymax></bndbox></object><object><name>3</name><confidence>tensor(0.8270, device='cuda:0')</confidence><bndbox><xmin>2476</xmin><ymin>1774</ymin><xmax>3123</xmax><ymax>2240
+</ymax></bndbox></object><object><name>2</name><confidence>tensor(0.8240, device='cuda:0')</confidence><bndbox><xmin>2038</xmin><ymin>2251</ymin><xmax>2559</xmax><ymax>2874
+</ymax></bndbox></object><object><name>2</name><confidence>tensor(0.7998, device='cuda:0')</confidence><bndbox><xmin>2127</xmin><ymin>1774</ymin><xmax>2460</xmax><ymax>2230
+</ymax></bndbox></object><object><name>2</name><confidence>tensor(0.7551, device='cuda:0')</confidence><bndbox><xmin>927</xmin><ymin>2234</ymin><xmax>1448</xmax><ymax>2864
+</ymax></bndbox></object><object><name>2</name><confidence>tensor(0.7544, device='cuda:0')</confidence><bndbox><xmin>1478</xmin><ymin>2247</ymin><xmax>2005</xmax><ymax>2871
+</ymax></bndbox></object><object><name>0</name><confidence>tensor(0.5593, device='cuda:0')</confidence><bndbox><xmin>351</xmin><ymin>656</ymin><xmax>3728</xmax><ymax>871
+</ymax></bndbox></object><object><name>3</name><confidence>tensor(0.5528, device='cuda:0')</confidence><bndbox><xmin>1475</xmin><ymin>1774</ymin><xmax>2104</xmax><ymax>2235
+</ymax></bndbox></object><object><name>3</name><confidence>tensor(0.3877, device='cuda:0')</confidence><bndbox><xmin>1472</xmin><ymin>885</ymin><xmax>3112</xmax><ymax>1737
+</ymax></bndbox></object></annotations>

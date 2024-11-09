@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotations><object><name>2</name><confidence>tensor(0.9351, device='cuda:0')</confidence><bndbox><xmin>2792</xmin><ymin>935</ymin><xmax>3589</xmax><ymax>1897
+</ymax></bndbox></object><object><name>2</name><confidence>tensor(0.8938, device='cuda:0')</confidence><bndbox><xmin>275</xmin><ymin>1786</ymin><xmax>911</xmax><ymax>2752
+</ymax></bndbox></object><object><name>1</name><confidence>tensor(0.8801, device='cuda:0')</confidence><bndbox><xmin>2789</xmin><ymin>1922</ymin><xmax>3560</xmax><ymax>2167
+</ymax></bndbox></object><object><name>2</name><confidence>tensor(0.8670, device='cuda:0')</confidence><bndbox><xmin>2802</xmin><ymin>2169</ymin><xmax>3587</xmax><ymax>2694
+</ymax></bndbox></object><object><name>2</name><confidence>tensor(0.8583, device='cuda:0')</confidence><bndbox><xmin>2167</xmin><ymin>1140</ymin><xmax>2752</xmax><ymax>2758
+</ymax></bndbox></object><object><name>2</name><confidence>tensor(0.8442, device='cuda:0')</confidence><bndbox><xmin>936</xmin><ymin>1752</ymin><xmax>1528</xmax><ymax>2754
+</ymax></bndbox></object><object><name>1</name><confidence>tensor(0.8025, device='cuda:0')</confidence><bndbox><xmin>982</xmin><ymin>1616</ymin><xmax>1512</xmax><ymax>1743
+</ymax></bndbox></object><object><name>2</name><confidence>tensor(0.7919, device='cuda:0')</confidence><bndbox><xmin>1567</xmin><ymin>1150</ymin><xmax>2142</xmax><ymax>2275
+</ymax></bndbox></object><object><name>2</name><confidence>tensor(0.7901, device='cuda:0')</confidence><bndbox><xmin>974</xmin><ymin>1163</ymin><xmax>1546</xmax><ymax>1608
+</ymax></bndbox></object><object><name>1</name><confidence>tensor(0.7807, device='cuda:0')</confidence><bndbox><xmin>1573</xmin><ymin>2290</ymin><xmax>2111</xmax><ymax>2420
+</ymax></bndbox></object><object><name>1</name><confidence>tensor(0.7711, device='cuda:0')</confidence><bndbox><xmin>343</xmin><ymin>1650</ymin><xmax>903</xmax><ymax>1776
+</ymax></bndbox></object><object><name>1</name><confidence>tensor(0.7627, device='cuda:0')</confidence><bndbox><xmin>504</xmin><ymin>766</ymin><xmax>2670</xmax><ymax>1143
+</ymax></bndbox></object><object><name>1</name><confidence>tensor(0.7358, device='cuda:0')</confidence><bndbox><xmin>516</xmin><ymin>773</ymin><xmax>2672</xmax><ymax>1148
+</ymax></bndbox></object><object><name>2</name><confidence>tensor(0.7165, device='cuda:0')</confidence><bndbox><xmin>1549</xmin><ymin>2420</ymin><xmax>2127</xmax><ymax>2749
+</ymax></bndbox></object><object><name>2</name><confidence>tensor(0.7085, device='cuda:0')</confidence><bndbox><xmin>350</xmin><ymin>1149</ymin><xmax>948</xmax><ymax>1640
+</ymax></bndbox></object><object><name>0</name><confidence>tensor(0.6912, device='cuda:0')</confidence><bndbox><xmin>345</xmin><ymin>510</ymin><xmax>3626</xmax><ymax>746
+</ymax></bndbox></object><object><name>1</name><confidence>tensor(0.6642, device='cuda:0')</confidence><bndbox><xmin>2789</xmin><ymin>782</ymin><xmax>3613</xmax><ymax>938
+</ymax></bndbox></object></annotations>
